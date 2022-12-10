@@ -38,4 +38,9 @@ A2 Programming Fundamentals
 6. Module 6: Clustering and Segmentation
   * A6: Segmentation (retail transactions and behavioral segmentation)
 
-7. Module 7: Use GitHub to Create Your Assignment Portfolio
+7. Module 7: Use GitHub to Create Your Assignment Portfolio 
+  * List analytics skills:
+  * Understanding of numpy pandas 
+  * Understanding of python 
+  * Knowledge in data cleaning 
+  * kowledge in regressions and segmentation 
