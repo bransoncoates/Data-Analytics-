@@ -16,3 +16,10 @@ Resume https://github.com/bransoncoates/Data-Analytics-/blob/main/Resume%20Brans
 
 
 ---
+
+
+# Table of contents 
+---
+
+1. Module 1 Using Colab 
+  * A1: Markdown CV
